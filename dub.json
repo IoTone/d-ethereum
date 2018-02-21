@@ -1,0 +1,10 @@
+{
+	"name": "deth",
+	"authors": [
+		"@truedat101",
+		"@pedroalvesbatista"
+	],
+	"description": "Dlang bindings for Ethereum",
+	"copyright": ""Copyright 2018, IoTone, Inc.",
+	"license": "MIT"
+}
